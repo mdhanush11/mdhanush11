@@ -4,9 +4,13 @@ B.Tech IT (2023–2027)
 Focused on building structured, scalable web applications.
 
 Languages: Java, JavaScript, Python
+
 Frontend: React, HTML5, CSS3
+
 Backend: Node.js, Express
+
 Database: MySQL, Firebase
+
 Tools: Git, VS Code
 <!--
 **mdhanush11/mdhanush11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

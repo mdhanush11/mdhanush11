@@ -1,5 +1,4 @@
-## Hi there 👋
-Hi, I'm Dhanush  
+## Hi there 👋 I'm Dhanush  
 B.Tech IT (2023–2027)  
 Focused on building structured, scalable web applications.
 
